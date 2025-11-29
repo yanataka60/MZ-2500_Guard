@@ -1,4 +1,4 @@
-# SHARP MZ-2500 カンガルーポケット　ガード
+# SHARP MZ-2500 カンガルーポケットガード
 
 ![Guard4](https://github.com/yanataka60/MZ-2500_Guard/blob/main/JPEG/Guard4.JPG)
 
